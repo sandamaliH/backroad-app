@@ -7,6 +7,7 @@ const Hero = () => {
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
                     explicabo debitis est autem dicta.
                 </p>
+                <p>A simple react website.</p>
                 <a href="#tours" className="btn hero-btn">explore tours</a>
             </div>
         </section>
